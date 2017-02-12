@@ -1,0 +1,40 @@
+
+.navbar-brand .cd-logo {
+	background-color:	 ##1b1b1b;
+
+	width:150px;
+	height:110px;
+	  top: -6px;
+	  
+left:60px;
+	position:relative;
+	z-index:100;
+	background-position:center;
+	transition:all .3s;
+	border-radius:5px;
+	
+}
+ .router-link-active  {
+	color:black;
+	font-weight:bold
+}
+ .router-link-active {
+	color:#cd3232;
+	
+	font-weight:bold
+}
+ .router-link-active {
+	color:#cd3232;
+	font-weight:bold;
+	
+}
+ .router-link-active {
+	color:#cd3232;
+	font-weight:bold;
+	
+}
+
+.header-footer-sprite {
+	background: no-repeat;
+	display:inline-block
+}
